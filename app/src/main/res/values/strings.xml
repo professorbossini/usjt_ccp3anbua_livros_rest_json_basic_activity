@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">usjt_ccp3anbua_livros_rest_json_basic_activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="host_address">http://10.0.2.2</string>
+    <string name="host_port">:9090</string>
+    <string name="endpoint_base">/livros</string>
+    <string name="endpoint_listar">/lista</string>
+    <string name="endpoint_salvar">/salvar</string>
+    <string name="endpoint_buscar_por_id">/%d</string>
+</resources>
